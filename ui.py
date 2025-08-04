@@ -252,4 +252,3 @@ class Win(WinGUI):
 if __name__ == "__main__":
     win = WinGUI()
     win.mainloop()
-# 测试 2025-08-04 16:21:16
